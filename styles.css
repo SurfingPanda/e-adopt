@@ -19,6 +19,14 @@
     margin-left: 40px;
 }
 
+.blog-img{
+    background-image: url('images/dog.jpg');
+    width: 150px;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+}
+
 .nav-banner{
     margin-right: 50px;
     color: white;  
